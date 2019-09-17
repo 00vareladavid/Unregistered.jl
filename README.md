@@ -1,2 +1,2 @@
 # Unregistered.jl
-Test repo
+This is a dummy package used for testing purposes. Nothing to see here...
